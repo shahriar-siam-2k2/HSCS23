@@ -1,0 +1,9 @@
+#28-prime-Number
+
+Write a program that contains a function called int isPrime(int n). The function will check whether a number is prime or not. If it is prime then it will return 1 otherwise it will return 0. Now check whether the number is prime or not by sending different numbers from main() to the function. If it is prime then it will print "Prime Number" otherwise it will print "Not a Prime Number". For example:
+
+Input: 27
+Output: Not a Prime Number
+
+Input: 29
+Output: Prime Number
