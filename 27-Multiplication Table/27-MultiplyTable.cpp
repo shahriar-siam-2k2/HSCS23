@@ -1,3 +1,5 @@
+//27-MultiplyTable.cpp
+//Ques at 27-MultiplyTable-Ques.txt
 #include<iostream>
 using namespace std;
 
