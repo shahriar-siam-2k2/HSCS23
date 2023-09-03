@@ -1,0 +1,6 @@
+#17-marksArr-Ques
+
+Write a program by defining a int data type array named "marks. There will be 3 numbers in array 90, 88, 92 respectively.
+Now write on the cout My English marks were... .(1st data of the array)
+My Bangla marks were... .(2nd data of the array)
+My ICT marks were... .(3rd data of the array)
