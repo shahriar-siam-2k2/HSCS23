@@ -1,0 +1,7 @@
+#20-revertName-Ques.txt
+
+Write a program there will be a 20 length char data type variable which name will be 'name'.
+Now input your name using cin. Then print your name in reverse order.
+
+Input: Siam
+Output: maiS
