@@ -1,0 +1,14 @@
+#19-revertArr-Ques.txt
+
+Write a program by defining an 6 size int data type array (That is 6 data can be stored in the array). Thier value should be 5000, 6000, 7000, 8000, 9000, 10000.
+Now revert the order of the salary using extra 3 variables & for loop.
+Now print the revert order using printf.
+
+Output:
+
+10000
+9000
+8000
+7000
+6000
+5000
