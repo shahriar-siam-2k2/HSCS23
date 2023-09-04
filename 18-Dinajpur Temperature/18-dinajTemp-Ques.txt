@@ -1,0 +1,7 @@
+#18-dinajTemp-Ques.txt
+
+The first 10 days temperature of December month in Dinajpur given below:
+25.4, 25.01, 24.06, 23.7, 22.9, 22.1, 21.6, 22, 21.03, 20.5
+Now declare a double type array and save these data. Determine the sumation using loop. Then determine these 10 days average temperature and print it.
+
+Output: 22.83
