@@ -1,0 +1,10 @@
+#21-charFind-Ques.txt
+
+Write a program where will be a 20 lenthed (that is highest 20 character will be stored) char data type variable 'name'.
+Now input your name. Input a character as a key. Now find the character from your name using loop. If there is print yes otherwise print no.
+
+Input: siam s
+Output: yes
+
+Input: siam f
+Output: no
