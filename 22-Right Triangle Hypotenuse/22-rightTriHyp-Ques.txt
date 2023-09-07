@@ -1,0 +1,3 @@
+#22-rightTriHyp-Ques.txt
+
+A right triangle's perpendicular is 5 cm & base is 10 cm. Write a program that will be determine the right triangle's hypotenuse by using the sqrt function. After that print "The arm length of the hypotenuse is....". Here, the lenght of hypeotenuse will be sit in "....".
